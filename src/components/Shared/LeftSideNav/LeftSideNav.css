@@ -1,0 +1,13 @@
+.dept-list{
+    font-weight: bold;
+}
+.dept-list a{
+    text-decoration: none;
+}
+.dept-list a:hover{
+    color: red;
+    font-weight: bold;
+}
+.dept-list-indent{
+    margin-left: 5px;
+}

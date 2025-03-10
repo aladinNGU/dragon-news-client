@@ -1,0 +1,18 @@
+.pagination{
+    margin-left: 200px;
+}
+.pagination button{
+    margin-right: 15px;
+}
+.pagination button.active {
+    background-color: teal;
+    color: white;
+  }
+
+  .pagination .selected{
+    background-color: goldenrod;
+    border: gold;
+    font-weight: bold;
+    width: 40px;
+    padding: 0px 10px;
+  }
